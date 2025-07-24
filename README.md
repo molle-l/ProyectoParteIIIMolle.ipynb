@@ -6,7 +6,7 @@
 
 ### 📌 Objetivo
 
-#### Explorar si es posible predecir el ranking de popularidad de un idiom en función de variables como el país, el idioma y el año.
+#### Explorar si es posible predecir el ranking de popularidad de un idioma en función de variables como el país, el idioma y el año.
 
 ### 🧪 Contenido del notebook
 
