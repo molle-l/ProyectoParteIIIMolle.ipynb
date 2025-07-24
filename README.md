@@ -1,6 +1,6 @@
 # ProyectoParteIIIMolle.ipynb
 
-## 🧠 Proyecto Final | Duolingo Language Ranking
+## Proyecto Final | Duolingo Language Ranking
 
 #### Este repositorio contiene el desarrollo de la segunda parte del proyecto sobre los idiomas más aprendidos en Duolingo entre 2020 y 2024. Mientras que el primer informe se centró en visualizaciones descriptivas e hipótesis, esta entrega busca aplicar un enfoque de ciencia de datos a través de un modelo predictivo.
 
@@ -25,6 +25,6 @@
 - **R²**: ~0.4079  
 > El modelo logró explicar aproximadamente el 40% de la variabilidad en los rankings de popularidad, resultado razonable dadas las características del dataset.
 
-## 🧠 Reflexión final
+### 🧠 Reflexión final
 
 #### Aunque el dataset tiene limitaciones, se logró aplicar correctamente todo el proceso de modelado: desde la selección de variables hasta la evaluación de resultados. Si bien no se logró construir una herramienta de predicción precisa, el ejercicio permitió aplicar de forma práctica las técnicas aprendidas en clase sobre ciencias de datos.
