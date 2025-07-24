@@ -2,7 +2,7 @@
 
 ## Proyecto Final | Duolingo Language Ranking
 
-#### Este repositorio contiene el desarrollo de la segunda parte del proyecto sobre los idiomas más aprendidos en Duolingo entre 2020 y 2024. Mientras que el primer informe se centró en visualizaciones descriptivas e hipótesis, esta entrega busca aplicar un enfoque de ciencia de datos a través de un modelo predictivo.
+#### Este repositorio contiene el desarrollo de la segunda parte del proyecto sobre los idiomas más aprendidos en Duolingo entre 2020 y 2024. Mientras que el primer informe se centró en visualizaciones descriptivas e hipótesis, esta entrega busca aplicar un modelo predictivo.
 
 ### 📌 Objetivo
 
